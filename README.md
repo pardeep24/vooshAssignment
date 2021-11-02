@@ -16,7 +16,7 @@
 | Environment | Base URL | Description  | Deployment |
 | :-------:   | :------: | :----------: | :--------: |
 | Development | [http://localhost:3000/](http://localhost:3000) | When running locally on your machine  | When PR is Raise Netlify will create a preview URL on related environement on based on base branch  |
-| Statging | [https://friendly-euclid-465a19.netlify.app/](https://friendly-euclid-465a19.netlify.app/) | An environment corresponding to `main` branch of this repo  |  Any changes merge to `main` branch will auto deploy on `main` environment |
+| Statging | [https://hungry-boyd-850838.netlify.app](https://hungry-boyd-850838.netlify.app) | An environment corresponding to `main` branch of this repo  |  Any changes merge to `main` branch will auto deploy on `main` environment |
 
 
 ## Tech Stack
