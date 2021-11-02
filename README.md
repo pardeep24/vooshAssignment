@@ -27,3 +27,6 @@
 
 - npm install react-router-dom
 
+
+## General Information
+- This script is for testing purposes and it's not containing design. In this script, I have used Git APIs implemented Users List, User Search, User Detail, Repos List, Gists List.
